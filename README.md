@@ -3,4 +3,4 @@ animal-cat
 
 Kotek Mruczek lubi mruczeć.
 
-![Alt Text](https://www.zooplus.pl/magazyn/wp-content/uploads/2019/12/kot-przyb%C5%82%C4%99da-768x512.jpeg)
+![Alt Text](https://www.colorland.pl/sites/default/files/inline/images/kot1_1_0.jpg)
